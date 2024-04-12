@@ -2,6 +2,8 @@
 
 Este repositório contém o código fonte de um website portfólio desenvolvido utilizando as linguagens HTML, CSS e JavaScript. O website apresenta uma interface amigável e responsiva.
 
+![Capa projeto](https://github.com/rafaelafae/Portfolio_RFT/blob/main/img/Capa_web_portf%C3%B3lio.png)
+
 ## Tecnologias Utilizadas:
 
 ### Front-end:
