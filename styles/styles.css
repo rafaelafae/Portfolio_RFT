@@ -217,6 +217,15 @@
   margin-bottom: 10px;
 }
 
+.cover__link {
+  background-color: var(--color_box0);
+  border: var(--color_box9) solid 1px;
+  border-radius: 4rem;
+  padding: 10px 30px;
+  margin-right: 70%;
+  margin-bottom: -40px;
+}
+
 /* SOBRE MIM */
 
 .introduction {
@@ -799,7 +808,4 @@ ul {
   .courses__subtittle__box {
     width: 600px;
   }
-}
-
-@media (min-width: 1440px) {
 }
