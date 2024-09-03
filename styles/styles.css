@@ -585,6 +585,13 @@ ul {
   padding: 5%;
 }
 
+.experience__font__text {
+  font-family: var(--font-text);
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2rem;
+}
+
 .experience__tittle {
   background-color: var(--color_box4);
   border: var(--color_box9) solid 1px;
@@ -595,13 +602,14 @@ ul {
   z-index: 1;
 }
 
-.experience__box {
-  background-color: var(--color_box8);
+.experience__box {  background-color: var(--color_box8);
   border: var(--color_box9) solid 1px;
+  border-radius: 4rem;
   width: 300px;
-  height: auto;
-  border-radius: 2rem;
-  padding: 20px;
+  height: 100%;
+  padding: 30px 20px 20px 20px;
+  margin: 20px;
+  line-height: 2rem;
 }
 
 /* FALE COMIGO */
